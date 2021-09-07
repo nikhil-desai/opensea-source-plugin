@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-plugin",
+  "name": "opensea-source-plugin",
   "version": "1.0.0",
-  "description": "A minimal boilerplate for the essential files Gatsby looks for in a plugin",
+  "description": "A source plugin for Opensea.io, the NFT marketplace",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,10 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "opensea",
+    "nfts"
   ],
-  "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
+  "author": "Nikhil Desai <nikhildesigning@gmail.com>",
   "license": "0BSD"
 }
