@@ -14,5 +14,11 @@
     "nfts"
   ],
   "author": "Nikhil Desai <nikhildesigning@gmail.com>",
-  "license": "0BSD"
+  "license": "0BSD",
+  "dependencies": {
+    "@apollo/client": "^3.4.10",
+    "graphql": "^15.5.3",
+    "subscriptions-transport-ws": "^0.9.19",
+    "ws": "^8.2.1"
+  }
 }
